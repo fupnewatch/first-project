@@ -1,0 +1,1 @@
+Gay Artem = new Artem();
