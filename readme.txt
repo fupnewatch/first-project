@@ -1,2 +1,0 @@
-Gay Artem = new Gay();
-
